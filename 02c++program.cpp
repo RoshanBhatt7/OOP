@@ -34,5 +34,6 @@ public:
         i1.show_count();
         i2.show_count();
         i3.show_count();
+        getch();
     }
 }
